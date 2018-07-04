@@ -1,0 +1,6 @@
+ofxOpenCv
+ofxOsc
+ofxXmlSettings
+ofxCv
+ofxMacamPs3Eye
+ofxUI
