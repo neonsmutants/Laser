@@ -1,2 +1,0 @@
-# LaserTracker
-C++ IR tracker
